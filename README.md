@@ -1,5 +1,14 @@
 # Selenium Boilerplate: 
-   This java project contains the essentials to get started with selenium quickly without having to go through the hassle of downloading individual dependencies one by one. 
+This java project contains the essentials to get started with selenium quickly without having to go through the hassle of downloading individual dependencies one by one.
+Inside this Project:
+
+Automated posting on Linkedin
+Automated Bookmyshow to get List of Links
+Automated IMDB to get ratings
+Automated IMDB to get recommended Movies Link
+Automated Search Amazon page
+Automated Windows handling Activity
+Automated Switch between Iframes 
 
 ## What does this project use?
    This project uses gradle , webdriver manager , selenium v4 
